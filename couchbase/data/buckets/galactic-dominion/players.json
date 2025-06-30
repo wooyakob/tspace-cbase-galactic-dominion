@@ -1,0 +1,70 @@
+[
+  {
+    "player_id": "player::123",
+    "username": "StarLord",
+    "faction": "Zylox",
+    "resources": {
+      "credits": 1000,
+      "metal": 500,
+      "crystals": 200
+    },
+    "owned_systems": ["system::alpha", "system::beta"],
+    "fleet_ids": ["fleet::a1", "fleet::a2"],
+    "technology_ids": ["tech::warp_drive"],
+    "diplomacy": {
+      "allies": ["player::456"],
+      "enemies": ["player::789"]
+    }
+  },
+  {
+    "player_id": "player::456",
+    "username": "NovaQueen",
+    "faction": "Terran Union",
+    "resources": {
+      "credits": 1200,
+      "metal": 300,
+      "crystals": 400
+    },
+    "owned_systems": ["system::gamma"],
+    "fleet_ids": ["fleet::b1"],
+    "technology_ids": ["tech::plasma_cannons"],
+    "diplomacy": {
+      "allies": ["player::123"],
+      "enemies": []
+    }
+  },
+  {
+    "player_id": "player::789",
+    "username": "VoidWalker",
+    "faction": "Nebulon",
+    "resources": {
+      "credits": 800,
+      "metal": 700,
+      "crystals": 100
+    },
+    "owned_systems": ["system::delta", "system::epsilon"],
+    "fleet_ids": ["fleet::c1", "fleet::c2", "fleet::c3"],
+    "technology_ids": ["tech::cloaking"],
+    "diplomacy": {
+      "allies": [],
+      "enemies": ["player::123"]
+    }
+  },
+  {
+    "player_id": "player::321",
+    "username": "IronWarden",
+    "faction": "Synth Collective",
+    "resources": {
+      "credits": 950,
+      "metal": 600,
+      "crystals": 350
+    },
+    "owned_systems": ["system::zeta"],
+    "fleet_ids": ["fleet::d1"],
+    "technology_ids": ["tech::nano_repair"],
+    "diplomacy": {
+      "allies": [],
+      "enemies": []
+    }
+  }
+]

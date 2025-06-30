@@ -1,0 +1,9 @@
+[
+  {
+  "system_id": "system::alpha",
+  "name": "Alpha Centauri",
+  "planet_ids": ["planet::a1", "planet::a2"],
+  "owner_player_id": "player::123",
+  "connected_systems": ["system::beta", "system::gamma"]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "fleet_id": "fleet::a1",
+    "owner_player_id": "player::123",
+    "location": {
+      "system_id": "system::alpha",
+      "en_route_to": "system::beta",
+      "eta": "2025-06-27T15:00:00Z"
+    },
+    "ships": [
+      { "type": "destroyer", "count": 3 },
+      { "type": "frigate", "count": 5 }
+    ],
+    "status": "moving"
+  }
+]

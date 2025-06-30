@@ -1,0 +1,11 @@
+[
+  {
+  "transaction_id": "res::tx1001",
+  "player_id": "player::123",
+  "type": "gain",
+  "resource": "metal",
+  "amount": 50,
+  "timestamp": "2025-06-27T14:50:00Z",
+  "reason": "mining"
+  }
+]

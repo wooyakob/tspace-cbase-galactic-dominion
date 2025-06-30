@@ -1,0 +1,9 @@
+[
+  {
+  "tech_id": "tech::warp_drive",
+  "name": "Warp Drive",
+  "description": "Enables faster fleet movement.",
+  "prerequisites": [],
+  "research_cost": { "credits": 500, "crystals": 100 }
+  }
+]

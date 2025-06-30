@@ -1,0 +1,9 @@
+[
+  {
+  "diplomacy_id": "dip::123_456",
+  "player_a": "player::123",
+  "player_b": "player::456",
+  "status": "allied",
+  "last_updated": "2025-06-27T14:40:00Z"
+  }
+]

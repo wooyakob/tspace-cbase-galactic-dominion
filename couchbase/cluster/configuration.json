@@ -1,0 +1,36 @@
+{
+  "clusterConfig": {
+    "ipFamily": "IPv4",
+    "services": {
+      "data": {
+        "enabled": true,
+        "memoryQuotaMB": 3584
+      },
+      "query": {
+        "enabled": true,
+        "memoryQuotaMB": 512
+      },
+      "index": {
+        "enabled": true,
+        "memoryQuotaMB": 640
+      },
+      "search": {
+        "enabled": true,
+        "memoryQuotaMB": 256
+      },
+      "analytics": {
+        "enabled": true,
+        "memoryQuotaMB": 1024
+      },
+      "eventing": {
+        "enabled": true,
+        "memoryQuotaMB": 384
+      },
+      "backup": {
+        "enabled": false
+      }
+    },
+    "ramAvailableMB": 7837,
+    "maxAllowedQuotaMB": 6813
+  }
+}

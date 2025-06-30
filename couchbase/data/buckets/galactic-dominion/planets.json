@@ -1,0 +1,17 @@
+[
+  {
+    "planet_id": "planet::a1",
+    "system_id": "system::alpha",
+    "name": "New Terra",
+    "description": "Don't be deceived by this planet's name. New Terra is a desolate, barren wasteland, home to some of the largest human flesh eating cockroaches you've never seen. They live underground and use a network of subterannean tunnels to move at speed in search of prey. If you find yourself on this planet, run!",
+    "owner_player_id": "player::123",
+    "resource_yield": {
+      "metal": 10,
+      "crystals": 5
+    },
+    "structures": [
+      { "type": "mine", "level": 2 },
+      { "type": "factory", "level": 1 }
+    ]
+  }
+]

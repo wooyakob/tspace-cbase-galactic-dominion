@@ -1,0 +1,13 @@
+[
+  {
+  "combat_id": "combat::xyz",
+  "system_id": "system::beta",
+  "participants": [
+    { "player_id": "player::123", "fleet_ids": ["fleet::a1"] },
+    { "player_id": "player::456", "fleet_ids": ["fleet::b2"] }
+  ],
+  "start_time": "2025-06-27T14:55:00Z",
+  "status": "ongoing", 
+  "outcome": null
+  }
+]
